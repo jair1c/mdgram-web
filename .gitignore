@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Configuración local del entorno
+.claude/
+.vercel/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
