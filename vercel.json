@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    { "source": "/dl", "destination": "https://github.com/jair1c/MDGram/releases/latest/download/MDGram-universal.apk" },
+    { "source": "/dl/universal", "destination": "https://github.com/jair1c/MDGram/releases/latest/download/MDGram-universal.apk" },
+    { "source": "/dl/arm64", "destination": "https://github.com/jair1c/MDGram/releases/latest/download/MDGram-arm64.apk" },
+    { "source": "/dl/armv7a", "destination": "https://github.com/jair1c/MDGram/releases/latest/download/MDGram-armv7a.apk" }
+  ]
+}
